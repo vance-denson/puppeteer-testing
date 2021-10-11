@@ -1,0 +1,29 @@
+{
+  "type": "module",
+  "name": "puppeteer-testing",
+  "version": "1.0.0",
+  "description": "Puppeteer automation testing of ecnav.net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vance-denson/puppeteer-testing.git"
+  },
+  "keywords": [
+    "automation",
+    "typescript",
+    "nodejs"
+  ],
+  "author": "Vance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vance-denson/puppeteer-testing/issues"
+  },
+  "homepage": "https://github.com/vance-denson/puppeteer-testing#readme",
+  "dependencies": {
+    "puppeteer": "^10.4.0",
+    "typescript": "^4.4.3"
+  }
+}
