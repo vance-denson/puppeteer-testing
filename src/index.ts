@@ -14,3 +14,5 @@ let main_test = async () => {
 let main = async () => {
   await main_test();
 };
+
+main();
